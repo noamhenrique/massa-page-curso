@@ -1,0 +1,17 @@
+.navbar-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-logo img {
+  height: 5rem;
+  background-color: black;
+}
+
+.navbar-links {
+  display: flex;
+  margin: 50px;
+  z-index: 10;
+  gap: 2rem;
+}
