@@ -1,3 +1,31 @@
 .hero {
-  background: url(/imagens/background.webp);
+  background: url(/imagens/background.webp) no-repeat center / cover;
+  height: 80vh;
+}
+
+.hero-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.hero-text {
+  color: #fff;
+}
+
+.hero-text h1 {
+  font-family: "Reey";
+  font-weight: 400;
+}
+
+.hero-text h2 {
+  font-family: "Open Sans";
+}
+
+.hero-image {
+  padding-top: 10rem;
+}
+
+.hero-image img {
+  max-width: 550px;
 }

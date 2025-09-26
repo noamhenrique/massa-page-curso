@@ -1,5 +1,9 @@
 @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css);
 @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/fontawesome.min.css);
+@import url("https://fonts.cdnfonts.com/css/reey");
+@import url("https://fonts.cdnfonts.com/css/open-sans");
+
+@import "./css/base.css";
 
 @import "./css/navbar.css";
 
